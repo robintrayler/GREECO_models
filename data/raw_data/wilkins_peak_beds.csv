@@ -1,0 +1,106 @@
+﻿core,bed,type,top_m,base_m,thickness_m,age,age_sd
+BF1,Analcite,tuff,378.7,,,49.175,0.0385
+BF1,top WPM,marker,323.7,,,,
+BF1,Sixth ,tuff,317.7,,,49.769,0.0305
+BF1,Layered,tuff,295.7,,,49.925,0.03
+BF1,I,marker_bed,291.5,281,10.5,,
+BF1,Main ,tuff,268.3,,,50.144,0.031
+BF1,Donkey,tuff,234.5,,,50.37,0.0295
+BF1,H,marker_bed,229.2,226.9,2.3,,
+BF1,G2,marker_bed,215,209.6,5.5,,
+BF1,G1,marker_bed,208.1,205.7,2.3,,
+BF1,F,marker_bed,189.2,183.2,5.9,,
+BF1,E2,marker_bed,174.1,170.4,3.7,,
+BF1,E1,marker_bed,170.1,166.4,3.7,,
+BF1,Grey ,tuff,164,,,50.864,0.0305
+BF1,D3,marker_bed,159,153.5,5.5,,
+BF1,D2,marker_bed,153,138.9,14.1,,
+BF1,D1,marker_bed,136.7,136.4,0.3,,
+BF1,C,marker_bed,126.6,123.6,3,,
+BF1,Boar,tuff,122,,,51.171,0.029
+BF1,B,marker_bed,105,97.2,7.8,,
+BF1,A2,marker_bed,85.4,80,5.4,,
+BF1,Second,tuff,79.2,,,51.286,0.0335
+BF1,A1,marker_bed,78.8,76.7,2.1,,
+BF1,Firehole ,tuff,36.7,,,51.576,0.029
+BF1,1448,tuff,18.7,,,51.581,0.0405
+BF1,base WPM,marker,0,,,,
+BF1,Scheggs,tuff,-15.8,,,51.28,0.042
+CCR1,Analcite,tuff,419,,,49.175,0.0385
+CCR1,top WPM,marker,364,,,,
+CCR1,Sixth ,tuff,358.5,,,49.769,0.0305
+CCR1,Layered,tuff,336.2,,,49.925,0.03
+CCR1,I,marker_bed,330.7,316.6,14.1,,
+CCR1,Main ,tuff,303.2,,,50.144,0.031
+CCR1,Donkey,tuff,271.5,,,50.37,0.0295
+CCR1,H,marker_bed,267.8,259.8,8,,
+CCR1,G2,marker_bed,249.2,239.8,9.5,,
+CCR1,G1,marker_bed,239.5,233.7,5.8,,
+CCR1,F,marker_bed,221.4,211,10.4,,
+CCR1,E2,marker_bed,203.8,197.8,6,,
+CCR1,E1,marker_bed,197.7,190.3,7.4,,
+CCR1,Grey ,tuff,189.1,,,50.864,0.0305
+CCR1,D3,marker_bed,185.3,184.9,0.4,,
+CCR1,D2,marker_bed,184.6,160.7,24,,
+CCR1,D1,marker_bed,158.8,157.3,1.5,,
+CCR1,C,marker_bed,148.1,143.2,4.9,,
+CCR1,Boar,tuff,141.9,,,51.171,0.029
+CCR1,B,marker_bed,126.8,119.5,7.3,,
+CCR1,A2,marker_bed,102.8,95.5,7.3,,
+CCR1,Second,tuff,94.7,,,51.286,0.0335
+CCR1,A1,marker_bed,94.4,88.2,6.2,,
+CCR1,Firehole ,tuff,44.7,,,51.576,0.029
+CCR1,1448,tuff,25.6,,,51.581,0.0405
+CCR1,base WPM,marker,0,,,,
+CCR1,Scheggs,tuff,-22,,,51.28,0.042
+Solvay,Donkey,tuff,222,,,50.37,0.0295
+Solvay,H,marker_bed,219,216.3,2.7,,
+Solvay,G,marker_bed,203,196,7,,
+Solvay,F,marker_bed,175.3,172.2,3.1,,
+Solvay,E2,marker_bed,160.7,157.2,3.5,,
+Solvay,E1,marker_bed,155.6,152.5,3.1,,
+Solvay,Grey ,tuff,148.9,,,50.864,0.0305
+Solvay,D3,marker_bed,146,142.7,3.3,,
+Solvay,D2,marker_bed,141.5,129.5,12,,
+Solvay,D1,marker_bed,129,126.5,2.5,,
+Solvay,C,marker_bed,118,117,1,,
+Solvay,Boar,tuff,111.7,,,51.171,0.029
+Solvay,B,marker_bed,99.5,94.2,5.3,,
+Solvay,A2,marker_bed,79.6,77.5,2.1,,
+Solvay,Second,tuff,76,,,51.286,0.0335
+Solvay,A1,marker_bed,74.6,73.5,1.1,,
+Solvay,Firehole ,tuff,42.7,,,51.576,0.029
+Solvay,1448,tuff,27.3,,,51.581,0.0405
+Solvay,base WPM,maker,0,,,,
+Solvay,Analcite,tuff,,,,49.175,0.0385
+Solvay,I,marker_bed,,,,49.925,0.03
+Solvay,Layered,tuff,,,,49.925,0.03
+Solvay,Main ,tuff,,,,50.144,0.031
+Solvay,Sixth ,tuff,,,,49.769,0.0305
+Solvay,top WPM,marker,,,,,
+WM1,Analcite,tuff,320.6,,,49.175,0.0385
+WM1,top WPM,marker,265.6,,,,
+WM1,Sixth ,tuff,262.3,,,49.769,0.0305
+WM1,Layered,tuff,242.2,,,49.925,0.03
+WM1,I,marker_bed,234.1,229.6,4.5,,
+WM1,Main ,tuff,218.2,,,50.144,0.031
+WM1,Donkey,tuff,192.5,,,50.37,0.0295
+WM1,H,marker_bed,188.3,185.8,2.5,,
+WM1,G2,marker_bed,175.8,172,3.8,,
+WM1,G1,marker_bed,171.4,169.5,2,,
+WM1,F,marker_bed,155,149.4,5.6,,
+WM1,E2,marker_bed,141.9,139,2.8,,
+WM1,E1,marker_bed,138.8,135,3.8,,
+WM1,Grey ,tuff,133.9,,,50.864,0.0305
+WM1,D3,marker_bed,125.6,123.4,2.1,,
+WM1,D2,marker_bed,122.8,112,10.8,,
+WM1,D1,marker_bed,110.8,110.1,0.7,,
+WM1,C,marker_bed,103.2,100,3.2,,
+WM1,Boar,tuff,99.5,,,51.171,0.029
+WM1,B,marker_bed,86,83.2,2.7,,
+WM1,A2,marker_bed,68,64,4,,
+WM1,Second,tuff,63.3,,,51.286,0.0335
+WM1,A1,marker_bed,62.7,58.8,3.9,,
+WM1,Firehole ,tuff,26.5,,,51.576,0.029
+WM1,1448,tuff,12.8,,,51.581,0.0405
+WM1,base WPM,marker,0,,,,
